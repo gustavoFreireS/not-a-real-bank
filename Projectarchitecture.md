@@ -19,6 +19,7 @@ Use self contained folders based on routes, common ui components and separated c
       component1.js
       component2.js
       component.css
+      component.tes.js
   /actions
   /reducers
 ```
